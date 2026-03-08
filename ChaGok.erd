@@ -4,9 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -527.1249,
-    "scrollLeft": -233.4046,
-    "zoomLevel": 1,
+    "scrollTop": -63.8568,
+    "scrollLeft": -473.4381,
+    "zoomLevel": 0.91,
     "show": 431,
     "database": 32,
     "databaseName": "",
@@ -432,20 +432,20 @@
       "VA3rFYR1zmH6ppcyL_Zb8": {
         "id": "VA3rFYR1zmH6ppcyL_Zb8",
         "tableId": "xHiiLeAO94mTmQS5oFdkI",
-        "name": "deletedAt",
+        "name": "isTrashed",
         "comment": "휴지통 이동 목적",
-        "dataType": "Date(TimeInterval)",
-        "default": "null",
-        "options": 0,
+        "dataType": "BOOL",
+        "default": "false",
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 81,
-          "widthDataType": 107,
+          "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1772646139829,
+          "updateAt": 1772969888373,
           "createAt": 1772471097185
         }
       },
@@ -892,20 +892,20 @@
       "uYGYHWJwSltf57qYjch_4": {
         "id": "uYGYHWJwSltf57qYjch_4",
         "tableId": "eT_U-Fk1DMk3-C7tAwoS2",
-        "name": "deletedAt",
+        "name": "isTrashed",
         "comment": "휴지통 이동 목적",
-        "dataType": "Date(TimeInterval)",
-        "default": "null",
-        "options": 0,
+        "dataType": "Bool",
+        "default": "false",
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 81,
-          "widthDataType": 107,
+          "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1772646093117,
+          "updateAt": 1772971695564,
           "createAt": 1772646060871
         }
       },
